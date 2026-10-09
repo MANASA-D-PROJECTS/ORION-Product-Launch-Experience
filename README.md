@@ -50,6 +50,7 @@ The prototype explores a product-discovery experience. It has not undergone stru
 ## Screenshots
 
 ![image alt](https://github.com/MANASA-D-PROJECTS/ORION-Product-Launch-Experience/blob/dd0e1a6b0ae615050d9f7b92eee0c6dc844273f0/ORION.png)
+![image alt](https://github.com/MANASA-D-PROJECTS/ORION-Product-Launch-Experience/blob/c99ee0b4dcad4505f78acb912f87e79527225d37/ORION-Features.png)
 
 ## Disclaimer
 
